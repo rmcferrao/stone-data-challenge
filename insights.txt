@@ -1,0 +1,33 @@
+external references:
+Article about Stone loan
+https://ajuda.stone.com.br/emprestimo/emprestimo-stone
+Stone`s livestream where they talk about Stone loan
+https://www.youtube.com/watch?v=s-tecvdx8-w&ab_channel=JornadaStone
+Article about negative amortization
+https://comoinvestir.thecap.com.br/amortizacao-negativa/
+
+Original attributes:
+id - Company identifier (int)
+subsegmento - Subsector of the company (string)
+desembolso - the day the loan was taken (datetime)
+vencimento - loan due date (datetime)
+dia - current day (datetime)
+dias_pos_desembolso - number of days passed after taking the loan (int)
+valor_emprestado - Total amount taken as loan (int)
+divida_principal - Amount taken as loan - amortization (int)
+divida_total - Amount taken as loan + interest - daily payment (int)
+transacionado - Amount transacted in the Stone machine (maybe not exactly this...) (int)
+pgto_diario_esperado - Expected daily payment for debt settlement (float)
+pgto_diario - Effective daily payment of total debt (float)
+amortizacao_principal_diario - Amortized amount of principal debt (float)
+y - Default identifier (boolean)
+
+Ask for the data:
+1. What is the distribution of default among listed companies?
+Is there a clear correlation between the subsector / transacted and the default?
+5. Is there any correlation between the maximum time established for the payment of the credit and the default?
+4. What period was the most credit taken?
+2. What is the distribution of values ​​taken as credit?
+Is there a clear correlation between the loaned value and the default?
+3. What is the expected daily payment distribution?
+Is there a clear correlation between expected pgto_diario_ and default?
