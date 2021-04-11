@@ -1,5 +1,8 @@
 .vscode/
 
+test.parquet
+train.parquet
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
