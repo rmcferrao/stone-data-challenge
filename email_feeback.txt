@@ -1,0 +1,32 @@
+Para ajudar no seu desenvolvimento, consolidamos abaixo alguns conteúdos sobre as questões que você não acertou. Esperamos que essa experiência tenha sido relevante para sua evolução. Até a próxima.
+
+ESTATISTICAS_DE_CENTRALIDADE
+https://docs.google.com/document/d/1OZLj
+VARIANCIA
+https://docs.google.com/document/d/1oHFE
+ESTATISTICA, PROBABILIDADE
+https://docs.google.com/document/d/1RBCT
+DATASCIENCE, LOGICA
+https://docs.google.com/document/d/1qB4x
+DADOS_AUSENTES, DADOS_CORROMPIDOS
+https://docs.google.com/document/d/179jH
+https://portaldatascience.com/como-lidar
+ARVORE_DE_DECISAO, DATASCIENCE
+https://docs.google.com/document/d/1Awcl
+TRANSFORMACOES_LOGARITMICAS
+https://docs.google.com/document/d/1YFMG
+EQUACAO_REGRESSAO
+https://docs.google.com/document/d/1T8LW
+INFERENCIA_DE_REJEITADOS
+https://medium.com/datarisk-io/modelagem
+https://docs.google.com/document/d/1R57f
+MEDIANA
+https://www.alura.com.br/artigos/media-o
+https://docs.google.com/document/d/1tkVd
+HOMOCEDASTICIDADE
+https://docs.google.com/document/d/1cH3b
+SCATTERPLOT, VARIAVEIS_CONTINUAS
+https://docs.google.com/document/d/1VDiH
+MACHINE_LEARNING, CREDIT_SCORING, DATA_VISUALIZATION, MODEL_PERFORMANCE_MEASUREMENT, DATA_ANALYTICS
+https://medium.com/kunumi/m%C3%A9tricas-
+
