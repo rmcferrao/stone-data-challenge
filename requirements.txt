@@ -9,7 +9,7 @@ decorator==4.4.2
 defusedxml==0.7.1
 entrypoints==0.3
 ipykernel==5.5.0
-ipython==7.21.0
+ipython>=7.31.1
 ipython-genutils==0.2.0
 jedi==0.18.0
 Jinja2==2.11.3
@@ -26,7 +26,7 @@ nbconvert==6.0.7
 nbformat==5.1.2
 nest-asyncio==1.5.1
 notebook>=6.4.10
-numpy==1.20.1
+numpy>=1.21
 packaging==20.9
 pandas==1.2.3
 pandocfilters==1.4.3
